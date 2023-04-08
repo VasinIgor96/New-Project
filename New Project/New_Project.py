@@ -51,4 +51,4 @@ while True:
         password += random.choice(characters)
 
     print("Your password: ", password)
-    break
+    break 
